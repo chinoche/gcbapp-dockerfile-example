@@ -1,4 +1,4 @@
 #!/bin/sh
 echo "Hello, world!"
-sleep 100
+sleep 120
 echo "this shloud  be triggered... yes?"
